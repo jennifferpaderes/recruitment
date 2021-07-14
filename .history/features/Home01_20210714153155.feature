@@ -3,4 +3,4 @@ Feature: Verify Home
 
 @Home001
 Scenario: Verify Home screen
-Given user see sp1 logo
+Given user see emew logo
